@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(163, 211, 217);
+    text-align: center;
+    color:black;
+}
+a:link, a:visited {
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color:black;
+    color:rgb(159, 255, 247);
+}

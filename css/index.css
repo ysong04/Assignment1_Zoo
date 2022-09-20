@@ -1,5 +1,51 @@
-body {
-  font-family: Gill Sans, sans-serif;
-  background-color: salmon;
-  text-align: center;
+html {
+    min-height: 100%;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  p{
+    font-size: 2em;
+  }
+  .border-highlight{
+    border: 4px dashed rgb(46, 105, 255);  
+    padding:0.03em 0.25em;
+  }
+
+  body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgb(1, 2, 48);
+    font-size: large;
+    font-weight: bolder;
+  }
+
+  button {
+    background-color: rgb(0, 20, 132);
+    border: none;
+    color: rgb(152, 248, 255);
+    padding: 10px;
+    margin: 2.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px #000;
+}
+
+button:hover {
+    background-color: rgb(0, 32, 97);
+}
+
+a {
+    text-decoration: : none;
+    color: skyblue;
+}
+
+a:active {
+    color: yellow;
 }
