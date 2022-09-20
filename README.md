@@ -2,4 +2,4 @@
 
 This repository is the website starter code for Assignment 1 - Zoo.
 
-[Website link](https://ysong04.github.io/Assignment1_Zoo/)
+[Link to website](https://ysong04.github.io/Assignment1_Zoo)
